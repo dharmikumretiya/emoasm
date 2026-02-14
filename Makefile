@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++17 -Wall -Wextra -Iinclude
+CXXFLAGS = -std=c++23 -Wall -Wextra -Iinclude
 
 SRC = src/main.cpp \
 	  src/Assembler.cpp \
